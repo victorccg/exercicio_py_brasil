@@ -62,6 +62,7 @@ for i in range(0, 23):
     else:
         pass
 
+
 # Fecha o arquivo
 arquivo.close()
 
