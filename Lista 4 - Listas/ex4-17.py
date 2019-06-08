@@ -53,6 +53,5 @@ print(f'\nMelhor salto: {max(resultados)} m')
 print(f'Pior salto: {min(resultados)} m')
 
 print(f'Média dos demais saltos: {media} m')
-
 print('\nResultado final:')
 print(f'{atleta[0]}: {media} m')
